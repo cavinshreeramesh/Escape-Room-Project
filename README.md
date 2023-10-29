@@ -6,16 +6,16 @@ The aim of the game is to exit the tower and this can be done in several ways wh
 
 
 # Modules Used
-Sys
+Sys\n
 Tkinter
 
 # Concepts Used
-Importing modules
-File handling
-Functions
-Global function
-Lists, list methods
-Dictionaries, dictionary methods
-Explicit conversion (typecasting) using int() etc.
-Conditional statements 
+Importing modules\n
+File handling\n
+Functions\n
+Global function\n
+Lists, list methods\n
+Dictionaries, dictionary methods\n
+Explicit conversion (typecasting) using int() etc.\n
+Conditional statements \n
 
